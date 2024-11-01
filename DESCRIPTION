@@ -1,0 +1,11 @@
+Package: Rwghts
+Title: User-Friendly Package To Generate Replicate Weights For Complex Survey Data
+Version: 0.0.0.9000
+Authors@R: 
+    person("Kameela", "Noah", , "https://github.com/kameelan/kameelan.github.io", role = c("aut", "cre"),
+           comment = c(ORCID = "https://orcid.org/0000-0003-0688-5535"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
